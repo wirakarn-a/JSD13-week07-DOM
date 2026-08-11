@@ -13,7 +13,6 @@ body {
     background-image: url("https://i.pinimg.com/1200x/4d/9e/29/4d9e29361d4dcdc6eabf5a0a035c900d.jpg");
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
     background-attachment: fixed;
     min-height: 100vh;
     display: flex;
